@@ -8,7 +8,7 @@ const EventCard = ({
   slug,
   time,
   date,
-  description,
+
   location,
 }: Event) => {
   return (
